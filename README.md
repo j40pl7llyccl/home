@@ -13,6 +13,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-JordanLiu-red)](https://www.instagram.com/j40pl7lly/)
 [![LinkIn](https://img.shields.io/badge/LinkIn-JordanLiu-blue)](https://www.linkedin.com/in/hsinkuo-liu-51b889273/)
-[![Node Version](https://img.shields.io/static/v1?label=Node&message=v18.13.0&color=026e00)](https://nodejs.org)
+[![Node Version](https://img.shields.io/static/v1?label=Node&message=v18.13.0&color=green)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=9.8.0)](https://nodejs.org)
 /* [![Site preview](/public/liu.jpg)](https://j40pl7lly.github.io/home) */
