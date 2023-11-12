@@ -15,4 +15,4 @@
 [![LinkIn](https://img.shields.io/badge/LinkIn-JordanLiu-blue)](https://www.linkedin.com/in/hsinkuo-liu-51b889273/)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=v18.13.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
-[![Site preview](/public/liu.jpg)](https://j40pl7lly.github.io/home)
+/* [![Site preview](/public/liu.jpg)](https://j40pl7lly.github.io/home) */
