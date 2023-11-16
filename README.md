@@ -3,8 +3,8 @@
   <h1 align="center">Jordan's website ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. My Web Site: 
-    <a href="https://j40pl7llyccl.github.io/home">j40pl7llyccl.github.io/home</a>
+    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
+    My Web Site: <a href="https://j40pl7llyccl.github.io/home">j40pl7llyccl.github.io/home</a>
     <br />
     <br />
   </p>
