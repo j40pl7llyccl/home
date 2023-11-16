@@ -1,7 +1,7 @@
 <br />
 <p align="center">
-  <h1 align="center">Jordan's website :✨</h1> <a href="https://j40pl7llyccl.github.io/home">j40pl7llyccl.github.io/home</a>
-
+  <h1 align="center">Jordan's website :✨</h1>
+   <a href="https://j40pl7llyccl.github.io/home">About Me</a>
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
     <br />
