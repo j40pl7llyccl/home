@@ -3,11 +3,10 @@
   <h1 align="center">Jordan's website ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
+    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. My Web Site: 
     <a href="https://j40pl7llyccl.github.io/home">j40pl7llyccl.github.io/home</a>
     <br />
     <br />
-    <a href="https://j40pl7lly.github.io">About Me</a>
   </p>
 </p>
 
