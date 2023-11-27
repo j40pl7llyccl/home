@@ -60,10 +60,9 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "j40pl7llyccl", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: ["whisper_mic_chatbot2", "Spider_by_python", "privacy_faceemotionrecognition_system", "home"],
 };
-
 
 
 // SKILLS SECTION
